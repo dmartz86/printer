@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html ng-app="Printer">
+	<head>
+		<title>Printer</title>
+		<link rel='stylesheet' href='/css/bootstrap.css' />
+		<link rel='stylesheet' href='/css/bootstrap-theme.css' />
+	</head>
+	<body  ng-controller="FilesController">
+
+		<!-- Header -->
+		<div class="container">
+			<div id="top-nav" class="navbar navbar-inverse navbar-static-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+									<span class="icon-toggle"></span>
+								</button>
+								<a class="navbar-brand" href="/">Printer</a>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="btn-group btn-group-justified">
+								<a href="/" class="btn btn-success col-sm-3"><i class="glyphicon glyphicon-print"></i>
+								<br>
+								<span class="badge"><span ng-bind="files.printed || 0"></span></a>
+								<a href="/" class="btn btn-warning col-sm-3"><i class="glyphicon glyphicon-folder-open"></i>
+								<br>
+								<span class="badge"> <span ng-bind="files.length"></span> </span></a>
+								<a href="#" class="btn btn-primary col-sm-3"> <i class="glyphicon glyphicon-pause"></i>
+								<br>
+								 </a>
+								 <a href="/" class="btn btn-primary col-sm-3"> <i class="glyphicon glyphicon-play"></i>
+								<br>
+								 </a>
+								<a href="#addWidgetModal" class="btn btn-primary col-sm-3"> <i class="glyphicon glyphicon-cog"></i>
+								<br>
+								 </a>
+								<a href="#" class="btn btn-primary col-sm-3" onclick="Printer.notify()"> <i class="glyphicon glyphicon-question-sign"></i>
+								<br>
+								</a>
+								<span href="#" class="btn btn-primary col-sm-3"><i class="glyphicon glyphicon-comment"></i>
+								<br>
+								<span class="badge">3</span>
+								 </span>
+							</div>
+						</div>
+						<div class="col-md-2"></div>
+					</div>
+				</div><!-- /container -->
+			</div>
+			<!-- /Header -->
+		</div>
+
+		<!-- Main -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+
+					<table class="table table-condensed table-striped ">
+						<thead>
+							<tr>
+								<th>Name</th><th>Weith</th><th>Status</th><th>Actions</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr ng-show="files.length == 0"><td colspan="4">No files found</td></tr>
+							<tr ng-repeat="file in files">
+								<td><a>{{file.name || ""}}</a></td>
+								<td>{{file.stats.size/1024 | number:2}} MB</td>
+								<td>{{file.status}}</td>
+								<td>
+									<a class="btn btn-primary" ng-click="print(file.name)">
+										<i class="glyphicon glyphicon-print"></i></a>
+									<a class="btn btn-danger" ng-click="remove(file.name)"><i class="glyphicon glyphicon-remove-circle"></i></a>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+				</div><!--/col-span-6-->
+
+				<!-- center left-->
+				<div class="col-md-4">
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4>Reports</h4>
+						</div>
+						<div class="panel-body">
+
+							<small>Prints</small>
+							<div class="progress">
+								<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100" style="width: 72%">
+									<span class="sr-only">72% Complete</span>
+								</div>
+							</div>
+							<small>Files</small>
+							<div class="progress">
+								<div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+									<span class="sr-only">60% Complete (warning)</span>
+								</div>
+							</div>
+
+						</div><!--/panel-body-->
+					</div><!--/panel-->
+
+					<!--
+					<div id="notifications"  >
+						<div id="">
+							<div class="alert alert-default">
+								<div class="row">
+									<div class="col-md-3"><img src="//skypeblogs.files.wordpress.com/2013/09/skype-logo-feb_2012_rgb_500.png" width="70px" height="30px" class="img-rounded" /></div>
+									<div class="col-md-9">
+										<a href="#" class="close" data-dismiss="alert">&times;</a>
+										New file printed. <a>View</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				-->
+
+				</div><!--/col-->
+
+			</div><!--/row-->
+
+			<script type="text/javascript" src="/js/libs/jquery.js"></script>
+			<script type="text/javascript" src="/js/libs/jquery.mb.browser.js"></script>
+			<script type="text/javascript" src="/js/libs/angular.js"></script>
+			<script type="text/javascript" src="/js/libs/bootstrap.js"></script>
+			<script type="text/javascript" src="/js/config.js"></script>
+			<script type="text/javascript" src="/js/browser-detection.js"></script>
+			<script type="text/javascript" src="/js/ng/app.js"></script>
+			<script type="text/javascript" src="/js/ng/files.js"></script>
+	</body>
+</html>

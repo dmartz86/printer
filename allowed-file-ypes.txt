@@ -1,0 +1,534 @@
+.1st	Readme File	
+.abw	AbiWord Document	
+.act	FoxPro Documenting Wizard Action Diagram	
+.aim	AIMMS ASCII Model File	
+.ans	ANSI Text File	
+.apt	Almost Plain Text File	
+.asc	ASCII Text File	
+.asc	Autodesk ASCII Export File	
+.ascii	ASCII Text File	
+.ase	Autodesk ASCII Scene Export File	
+.aty	Association Type Placeholder	
+.awp	Ability Write Template	
+.awt	AbiWord Template	
+.aww	Ability Write Document	
+.bad	Exchange Badmail File	
+.bbs	Bulletin Board System Text	
+.bdp	Exchange Diagnostic Message	
+.bdr	Exchange Non-Delivery Report Body File	
+.bean	Bean Rich Text Document	
+.bib	BibTeX Bibliography Database	
+.bib	Bibliography Document	
+.bna	Barna Word Processor Document	
+.boc	EasyWord Big Document	
+.brx	Beam Report Document	
+.btd	Business-in-a-Box Document	
+.bzabw	Compressed AbiWord Document	
+.charset	Character Set	
+.chart	Feedback Chart File	
+.chord	Song Chords File	
+.cnm	NoteMap Outline File	
+.cod	Atlantis Word Processor Encrypted Document	
+.crwl	Windows Crawl File	
+.cws	Claris Works Template	
+.cyi	Clustify Input File	
+.dca	DisplayWrite Document	
+.dgs	Dagesh Pro Document	
+.diz	Description in Zip File	
+.dne	Netica Text File	
+.doc	Microsoft Word Document	
+.doc	WordPad Document	
+.docm	Word Open XML Macro-Enabled Document	
+.docx	Microsoft Word Open XML Document	
+.docxml	Microsoft Word XML Document	
+.docz	ThinkFree Online Note Document	
+.dotm	Word Open XML Macro-Enabled Document Template	
+.dotx	Word Open XML Document Template	
+.dox	MultiMate Document	
+.dsc	Text Description File	
+.dsv	DeSmuME Save File	
+.dvi	Device Independent Format File	
+.dwd	DavkaWriter File	
+.dx	DEC WPS Plus File	
+.eio	Yozo Office File	
+.eit	Yozo Office Template File	
+.emf	Jasspa MicroEmacs Macro File	
+.eml	E-Mail Message	
+.emlx	Mail Message	
+.emulecollection	eMule Data File	
+.epp	EditPad Pro Project	
+.err	FoxPro Compilation Error	
+.err	Error Log File	
+.etf	ENIGMA Transportable File	
+.etx	Structure Enhanced Text (Setext) File	
+.euc	Extended Unix Code File	
+.fadein	Fade In Document	
+.fadein.template	Fade In Template	
+.faq	Frequently Asked Questions Document	
+.fbl	CADfix Command Level Log File	
+.fcf	Final Draft Converter File	
+.fdf	Acrobat Forms Data Format	
+.fdr	Final Draft Document	
+.fds	Final Draft Secure Copy	
+.fdt	Final Draft 5-7 Template	
+.fdx	Final Draft Document	
+.fdxt	Final Draft 8 Template	
+.fft	Final Form Text File	
+.flr	Flare Decompiled ActionScript File	
+.fodt	OpenDocument Flat XML Document	
+.fountain	Fountain Script File	
+.fpt	FoxPro Table Memo	
+.frt	FoxPro Report Memo	
+.fwdn	fWriter Document	
+.gdoc	Google Drive Document	
+.gpd	Generic Printer Description File	
+.gpn	GlidePlan Map Document	
+.gsd	General Station Description File	
+.gthr	Gather Log File	
+.gv	Graphviz DOT File	
+.hbk	Mathcad Handbook File	
+.hht	Help and Support Center HHT File	
+.hs	Java HelpSet File	
+.hwp	Hanword Document	
+.hwp	Hangul (Korean) Text Document	
+.hz	Chinese (Hanzi) Text	
+.idx	Outlook Express Mailbox Index File	
+.iil	CleanSweep Installation Log	
+.ipf	OS/2 Help File	
+.ipspot	iPhoto Spot File	
+.jarvis	Jarvis Subscriber File	
+.jis	Japanese Industry Standard Text	
+.joe	JOE Document	
+.jp1	Japanese (Romaji) Text File	
+.jrtf	JAmes OS Rich Text File	
+.kes	Kurzweil 3000 Document	
+.klg	Log File	
+.klg	KOFIA Log	
+.knt	KeyNote Note File	
+.kon	Yahoo! Widget XML File	
+.kwd	KWord Document	
+.latex	LaTeX Document	
+.lbt	FoxPro Label Memo	
+.lis	SQR Output File	
+.lnt	Laego Note Taker File	
+.log	Log File	
+.lp2	iLEAP Word Processing Document	
+.lst	FoxPro Documenting Wizard List	
+.lst	Data List	
+.ltr	Letter File	
+.ltx	LaTeX Document	
+.lue	Norton LiveUpdate Log File	
+.luf	Lipikar Uniform Format File	
+.lwp	Lotus Word Pro Document	
+.lxfml	LEGO Digital Designer XML File	
+.lyt	TurboTax Install Log File	
+.lyx	LyX Document	
+.man	Unix Manual	
+.mbox	E-mail Mailbox File	
+.mcw	MacWrite II Document	
+.md5.txt	Message Digest 5 Hash File	
+.me	Readme Text File	
+.mell	Mellel Word Processing File	
+.mellel	Mellel Word Processing Document	
+.min	Mint Source File	
+.mnt	FoxPro Menu Memo	
+.msg	Outlook Mail Message	
+.mw	MacWrite Text Document	
+.mwd	MarinerWrite Document	
+.mwp	Lotus Word Pro SmartMaster File	
+.nb	Nota Bene File	
+.ndoc	Naver Word	
+.nfo	Warez Information File	
+.ngloss	Nisus Writer Glossary	
+.njx	NJStar Document	
+.notes	Memento Notes File	
+.now	Readme File	
+.nwctxt	NoteWorthy Composer Text File	
+.nwm	Nisus Macro	
+.nwp	Now Contact WP Document	
+.ocr	FAXGrapper Fax Text File	
+.odif	Open Document Interchange Format	
+.odm	OpenDocument Master Document	
+.odo	Online Operating System Write Document	
+.odt	OpenDocument Text Document	
+.ofl	Ots File List	
+.openbsd	OpenBSD Readme File	
+.ort	Rich Text Editor Document	
+.ott	OpenDocument Document Template	
+.p7s	Digitally Signed Email Message	
+.pages	Pages Document	
+.pages-tef	Pages iCloud Document	
+.pfs	PhotoFiltre Studio Saved Selection File	
+.pfx	First Choice Word Processing Document	
+.pjt	FoxPro Project Memo	
+.plantuml	PlantUML File	
+.pmo	Pegasus Saved Message File	
+.prt	Printer Output File	
+.prt	Crypt Edit Protected Text Format File	
+.psw	Pocket Word Document	
+.pu	PlantUML File	
+.pvj	ProofVision Job Ticket	
+.pvm	Photo Video Manifest File	
+.pwd	Pocket Word Document	
+.pwdp	Password Pad Document	
+.pwdpl	Password Pad Lite Document	
+.pwi	Pocket Word Document	
+.pwr	PowerWrite Document	
+.qdl	QDL Program	
+.qpf	QuickPad Encrypted Document	
+.rad	Radar ViewPoint Radar Data	
+.readme	Readme File	
+.rft	Revisable Form Text Document	
+.ris	Research Information Systems Citation File	
+.rpt	Generic Report	
+.rst	reStructuredText File	
+.rtd	RagTime Document	
+.rtf	Rich Text Format File	
+.rtfd	Rich Text Format Directory File	
+.rtx	Rich Text Document	
+.run	Runscanner Scan File	
+.rzk	File Crypt Password File	
+.rzn	Red Zion Notes File	
+.saf	SafeText File	
+.safetext	SafeText File	
+.sam	Ami Pro Document	
+.sam	LMHOSTS Sample File	
+.save	Nano Temporary Save File	
+.scc	Scenarist Closed Caption File	
+.scm	Schema File	
+.scriv	Scrivener Document	
+.scrivx	Scrivener XML Document	
+.sct	FoxPro Form Memo	
+.scw	Movie Magic Screenwriter Document	
+.sdm	StarOffice Mail Message	
+.sdoc	Satra Khmer Document	
+.sdw	StarOffice Writer Text Document	
+.session	Mozilla Firefox Session File	
+.sgm	SGML File	
+.sig	Signature File	
+.skcard	Starfish Sidekick Card File	
+.sla	Scribus Document	
+.sla.gz	Scribus Compressed Document	
+.smf	StarMath Formula File	
+.sms	Exported SMS Text Message	
+.ssa	Sub Station Alpha Subtitle File	
+.story	Storyist Document	
+.strings	Text Strings File	
+.stw	StarOffice Document Template	
+.sty	LaTeX Style	
+.sub	Subtitle File	
+.sublime-project	Sublime Text Project File	
+.sublime-workspace	Sublime Text Workspace File	
+.sxg	Apache OpenOffice Master Document	
+.sxw	StarOffice Writer Document	
+.tab	Guitar Tablature File	
+.tab	Tab Separated Data File	
+.tdf	Xserve Test Definition File	
+.tdf	Guide Text Definition File	
+.template	Apple Pages Template	
+.tex	LaTeX Source Document	
+.text	Plain Text File	
+.textclipping	Mac OS X Text Clipping File	
+.thp	TurboTax Text String	
+.tlb	VAX Text Library	
+.tm	TeXmacs Document	
+.tmd	TextMaker Document	
+.tmv	TextMaker Template	
+.tpc	Topic Connection Placeholder	
+.trelby	Trelby File	
+.tvj	TrueView Job Ticket	
+.txt	Plain Text File	
+.u3i	U3 Application Information File	
+.unauth	SiteMinder Unauthorized Message File	
+.unx	Unix Text File	
+.uof	Uniform Office Document	
+.uot	Uniform Office Document	
+.upd	Program Update Information	
+.utf8	Unicode UTF8-Encoded Text Document	
+.utxt	Unicode Text File	
+.vct	Visual Class Library Memo	
+.vnt	Mobile Phone vNote File	
+.vw	Volkswriter Text File	
+.wbk	WordPerfect Workbook	
+.webdoc	Box.net Web Document	
+.wn	WriteNow Text Document	
+.wp	WordPerfect Document	
+.wp4	WordPerfect 4 Document	
+.wp5	WordPerfect 5 Document	
+.wp6	WordPerfect 6 Document	
+.wp7	WordPerfect 7 Document	
+.wpa	ACT! Word Processing Document	
+.wpd	WordPerfect Document	
+.wpd	ACT! 2 Word Processing Document	
+.wpd	602Text Word Processing Document	
+.wpl	DEC WPS Plus Text Document	
+.wps	Microsoft Works Word Processor Document	
+.wps	Kingsoft Writer Document	
+.wpt	WordPerfect Template	
+.wpt	Kingsoft Writer Template	
+.wpw	WP Works Word Processor File	
+.wri	Windows Write Document	
+.wsd	WordStar Document	
+.wtx	Text Document	
+.xbdoc	Xiosis Scribe Document	
+.xbplate	Xiosis Scribe Template	
+.xdl	Oracle Expert Definition Language File	
+.xdl	XML Schema File	
+.xwp	XMLwriter Project	
+.xwp	Xerox Writer Text Document	
+.xwp	Crosstalk Session File	
+.xy	XYWrite Document	
+.xy3	XYWrite III Document	
+.xyp	XYWrite Plus Document	
+.xyw	XYWrite for Windows Document	
+.zabw	Compressed AbiWord Document File	
+.zrtf	Nisus Compressed Rich Text File	
+.zw	Chinese Text File	
+
+.123	Lotus 1-2-3 Spreadsheet	
+.ast	Ability Spreadsheet Template	
+.aws	Ability Spreadsheet File	
+.bks	Microsoft Works Spreadsheet Backup File	
+.def	SmartWare II Data File	
+.dex	Excel Spreadsheet	
+.dfg	Data Flask Grid File	
+.dis	Oracle Discoverer Workbook	
+.edx	Edraw XML FIle	
+.edxz	Edraw Compressed XML FIle	
+.ess	EasySpreadsheet Spreadsheet	
+.fcs	First Choice Spreadsheet	
+.fm	FileMaker Database	
+.fods	OpenDocument Flat XML Spreadsheet	
+.fp	FileMaker Pro Spreadsheet	
+.gsheet	Google Drive Spreadsheet	
+.imp	Improv Spreadsheet	
+.mar	Mariner Calc Spreadsheet	
+.nb	Mathematica Notebook	
+.nmbtemplate	Numbers Spreadsheet Template	
+.numbers	Numbers Spreadsheet File	
+.numbers-tef	Numbers iCloud Document	
+.ods	OpenDocument Spreadsheet	
+.ots	OpenDocument Spreadsheet Template	
+.pmd	PlanMaker Spreadsheet	
+.pmv	PlanMaker Spreadsheet Template	
+.qpw	Quattro Pro Spreadsheet	
+.rdf	Report Definition File	
+.sdc	Apache OpenOffice Calc Spreadsheet	
+.stc	StarOffice Calc Spreadsheet Template	
+.sxc	StarOffice Calc Spreadsheet	
+.tmv	TimeMap Visual	
+.tmvt	TimeMap Template	
+.uos	Uniform Office Spreadsheet	
+.wki	Lotus 2 Worksheet	
+.wks	Lotus 1-2-3 Spreadsheet	
+.wks	Works Spreadsheet	
+.wku	Lotus 1-2-3 Spreadsheet	
+.wq1	Quattro Pro for DOS Spreadsheet File	
+.wq2	Quattro Pro for DOS Spreadsheet File	
+.xar	Excel Auto-Recovery File	
+.xl	Excel Spreadsheet	
+.xlr	Works Spreadsheet	
+.xls	Excel Spreadsheet	
+.xlsb	Excel Binary Spreadsheet	
+.xlshtml	Microsoft Excel HTML Spreadsheet	
+.xlsm	Excel Open XML Macro-Enabled Spreadsheet	
+.xlsmhtml	Microsoft Excel MIME HTML Spreadsheet	
+.xlsx	Microsoft Excel Open XML Spreadsheet	
+.xlthtml	Microsoft Excel HTML Spreadsheet Template	
+.xltm	Excel Open XML Macro-Enabled Spreadsheet Template	
+.xltx	Excel Open XML Spreadsheet Template
+
+.4ui	ForeUI Plot File	
+.adb	Now Contact Address Book Template	
+.afp	Advanced Function Presentation File	
+.antmpl	Adobe Edge Animate Template File	
+.avery	Avery Design & Print Online Label File	
+.bcf	Business Card Designer Pro File	
+.bcp	Business Card Designer Plus File	
+.biz	Broderbund Business Card File	
+.book	FrameMaker Book File	
+.bpf	Baan ERP Document	
+.bro	CreataCard Brochure Project	
+.bro	Design & Print Page Design File	
+.btw	BarTender Label	
+.cal	Calendar File	
+.cbf	Calendar Builder File	
+.cd2	Click'N Design 3D File	
+.cdf	Computable Document Format File	
+.cedprj	Ashampoo CoverEditor Project	
+.ch3	Harvard Graphics DOS Chart File	
+.cl2arc	Comic Life 2 Document Archive	
+.cl2doc	Comic Life 2 Document	
+.cl2lyt	Comic Life 2 Layout File	
+.cl2tpl	Comic Life 2 Template	
+.cld	Canon CD Label Template	
+.clt	Clarity Legal Transcript File	
+.cndx	Avery DesignPro for Mac Label File	
+.comicdoc	Comic Life Document	
+.cov	Fax Cover Page File	
+.cpe	Fax Cover Page File	
+.cph	Corel Print House File	
+.cpy	eCopy Desktop File	
+.crtr	MultiAd Creator Pro Document	
+.csd	Compact Shared Document	
+.cst	Manga Studio Story File	
+.cvw	CaseView Document	
+.cw	CardWorks Template	
+.dcx	FAXserve Fax Document	
+.dmtemplate	Direct Mail Template	
+.dot	Word Document Template	
+.dpd	Ovation Pro File	
+.drmx	Drumlin Fully Secure PDF File	
+.drmz	Drumlin Fully Secure Mobile PDF File	
+.dtl	Now Contact Detail Template	
+.dtp	Publish-iT Document	
+.dtx	Documented LaTeX File	
+.dwdoc	DrawWell Document	
+.edrwx	XPS Drawing Document	
+.enc	Copysafe Protected PDF File	
+.env	Now Contact Envelope Template	
+.fax	Now Contact Fax Template	
+.fcdt	FormsCentral Design Template	
+.fd2	PictureMate Borders File	
+.fdd	FormDocs Document	
+.fdt	FormDocs Template	
+.flb	FileMaker Pro Label File	
+.fm	FrameMaker Document	
+.form	NetBeans Java GUI Designer Form	
+.fp3	FastReport Prepared Report File	
+.fr3	FastReport Form File	
+.frf	Free Report Form File	
+.fxm	WinFax Document	
+.gem	Ventura Publisher Document	
+.hcr	Half-Fold Card File	
+.hfd	HotDocs Form Document	
+.hft	HotDocs Form Template	
+.hmk	Hallmark Card Studio File	
+.hpd	HotDocs PDF Document	
+.hpt	HotDocs PDF Template	
+.icap	InCopy Package File	
+.icml	InCopy Document	
+.icmt	InCopy Template	
+.idap	Adobe InDesign Assignment Package	
+.idml	Adobe InDesign Markup Language File	
+.idms	Adobe InDesign Snippet	
+.idpk	Adobe InDesign Package for GoLive File	
+.ifd	InForm Document	
+.ildoc	QuickSilver Document	
+.incd	InCopy Document	
+.inct	InCopy Template	
+.incx	InCopy CS3 Interchange File	
+.ind	Adobe InDesign Document	
+.indb	Adobe InDesign Book File	
+.indd	Adobe InDesign Document	
+.indl	Adobe InDesign Library	
+.indp	Adobe InDesign CS3 Package File	
+.inds	Adobe InDesign Snippet File	
+.indt	Adobe InDesign Template	
+.infopathxml	Microsoft InfoPath Form	
+.inp	Urdu InPage Document	
+.inx	Adobe InDesign Interchange File	
+.isd	Flexera InstallShield Dialog Box File	
+.jtp	Windows Journal Template	
+.jtx	XPS Document	
+.jtx	Jrju Text File	
+.lab	WordPerfect Label Definition File	
+.lbl	dBASE Label File	
+.lbl	Now Contact Label Template	
+.lld	Logo! Soft Comfort LAD File	
+.lma	Logo! UDF File	
+.lpdf	Localized PDF File	
+.lsc	Logo! Soft Comfort File	
+.lst	Now Contact List Template	
+.ltf	Laser App Temp Form File	
+.mars	Adobe MARS File	
+.max	OmniPage Scanned Document	
+.mbbk	ManaBook Book Kit File	
+.mcsp	My Craft Studio Project File	
+.mcsx	My Craft Studio Professional File	
+.mdi	Microsoft Document Imaging File	
+.mfo	MediaFace Online Saved File	
+.mfp	MediaFACE Project File	
+.mft	MediaFACE Project Template	
+.mga	Manga Document	
+.mif	FrameMaker Interchange Format File	
+.mml	FrameMaker Maker Markup Language File	
+.mrg	Now Contact Merge Template	
+.npp	Art Explosion Publisher Pro Document	
+.nud	Now Up-To-Date Calendar File	
+.ola	Online Access File	
+.opd	OmniPage Document	
+.oxps	OpenXPS File	
+.p65	PageMaker 6.5 Document	
+.pa	Print Artist Project	
+.pcl	Printer Command Language Document	
+.pct	Picture File	
+.pde	ProntoDoc for Excel Document Template	
+.pder	ProntoDoc for Excel Conventional Document	
+.pdf	Portable Document Format File	
+.pdfxml	Adobe PDFXML Document	
+.pdg	Print Shop Deluxe Design File	
+.pdh	ProntoDoc for Word Browser Display Document Template	
+.pdm	ProntoDoc for Word Mobile Display Document Template	
+.pdp	Adobe Portable Document Format File	
+.pdr	ProntoDoc for Word Recovered Document	
+.pdw	ProntoDoc for Word Conventional Document Template	
+.pdwr	ProntoDoc for Word Conventional Document	
+.pdz	ProntoDoc for Word Structured Text Document Template	
+.pex	West Publisher Portable Exhibit File	
+.pff	Formatta Portable Form File	
+.pfl	PDFill Project File	
+.pm4	PageMaker 4 Document	
+.pm5	PageMaker 5.0 Document	
+.pm6	PageMaker 6.0 Document	
+.pmd	PageMaker Document	
+.ppp	Serif PagePlus Document	
+.ppx	Serif PagePlus Template File	
+.prn	Printable File	
+.psg	Page Segment File	
+.psr	Powersoft Report File	
+.ptx	E-Transcript File	
+.pub	Publisher Document	
+.pwt	Pocket Word Template	
+.q3c	Quick 3D Cover Project File	
+.qdf	Label Matrix Label Design	
+.qpt	QuarkXPress Project Template	
+.qxb	QuarkXPress Book File	
+.qxd	QuarkXPress Document	
+.qxp	QuarkXPress Project File	
+.qxt	QuarkXPress Template	
+.rb4	Resume Builder 4 File	
+.rels	Open Office XML Relationships File	
+.rfd	Recogniform Form Designer File	
+.rlf	ArcGIS Report Layout File	
+.rmr	ResumeMaker File	
+.rptr	RafflePrinter Document	
+.rsm	WinWay Resume Deluxe Resume File	
+.sbk	Scrapbook Factory File	
+.sbv	Superbase Form Definition File	
+.sdt	SmartDraw Template File	
+.sjd	Scrapbook Factory Journal File	
+.snp	Access Report Snapshot	
+.sp	SignPlot Traffic Sign File	
+.spub	Swift Publisher Document	
+.totalslayout	Totals Invoice Layout File	
+.tp3	Harvard Graphics DOS Template File	
+.vfc	VentaFax Cover Page File	
+.vp	Ventura Publication File	
+.webtemplate	iWeb Template	
+.webtheme	iWeb Theme Template	
+.wlp	Worldlabel.com Label Designer File	
+.wmga	Web Manga Document	
+.wpt	Works Template	
+.wwf	World Wide Fund Non-Printable Document	
+.xdw	Fuji Xerox DocuWorks File	
+.xif	ScanSoft Pagis File	
+.xps	XML Paper Specification File	
+.xsn	InfoPath Form Template File	
+.xtp	InfoPath Template Part File	
+.xzfx	ZipLogix ZipForm File	
+.zdl	Avery DesignPro Label File	
+.zdp	Avery DesignPro Label File	
+.zds	DesignPro Label File	
+.zfx	ZipForm File	
+.zno	Zinio Electronic Magazine File	
