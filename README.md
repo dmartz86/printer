@@ -1,6 +1,6 @@
 
 
-# printer
+# Printer
 This app shows a functional page as web printer for files
 located as download folder. In practice this works fine for any folder
 and file extensions if match with mime types list.
@@ -26,5 +26,6 @@ https://github.com/pupunzi/jquery.mb.browser
 Angular.js
 Express.js
 
-###  Notess
+###  Notes
+
 
